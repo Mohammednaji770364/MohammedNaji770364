@@ -71,19 +71,13 @@ than focusing on a single framework.
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-### 🖥️ Systems, Networking & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
 `TCP/IP` • `LAN/WAN` • `Firewall` • `Network Security` • `RESTful APIs`
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🛒 E-Commerce Mobile & Web App
+###  E-Commerce Mobile & Web App
 
 A full-stack e-commerce solution combining a modern mobile application
 with a Laravel backend and RESTful APIs.
@@ -97,7 +91,7 @@ with a Laravel backend and RESTful APIs.
 
 ---
 
-### 🏠 Dormitory Management Web System
+###  Dormitory Management Web System
 
 A web-based system designed to automate and manage student-housing
 administrative and operational processes.
@@ -112,7 +106,7 @@ administrative and operational processes.
 
 ---
 
-## 🧠 Core Competencies
+##  Core Competencies
 
 `Problem Solving` • `Software Development` • `Database Design`
 • `API Integration` • `Technical Support` • `Networking`
@@ -121,7 +115,7 @@ administrative and operational processes.
 
 ---
 
-## 🎯 Current Focus
+##  Current Focus
 
 - Expanding my capabilities across **software engineering and IT systems**
 - Building practical **web and mobile applications**
