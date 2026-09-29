@@ -7,7 +7,7 @@
 **Building practical software solutions across mobile, web, databases, and IT systems.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/محمد-ناجي-علي-السلامي-8367b33bb/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m4__k2)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m4__2k)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohemmad040@gmail.com)
 
 </div>
@@ -149,7 +149,7 @@ administrative and operational processes.
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/محمد-ناجي-علي-السلامي-8367b33bb/)
-[![Instagram](https://img.shields.io/badge/Instagram-m4__k2-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m4__k2)
+[![Instagram](https://img.shields.io/badge/Instagram-m4__k2-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/m4__2k)
 [![Email](https://img.shields.io/badge/Email-mohemmad040%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohemmad040@gmail.com)
 
 ---
