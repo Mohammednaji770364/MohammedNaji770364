@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohammed Naji Ali Al-Salmi
+# 👋 Hi, I'm Mohammed Naji Ali Al-Salami
 
 ### IT Engineer • Software & Web Developer • Technology Enthusiast
 
